@@ -6,3 +6,5 @@ Paper here: https://arxiv.org/abs/1604.06737
 
 Acquiring the data is detailed in the code. Selection of columns is done through pre-processing steps as part
 of the FastAI course and is not included here. 
+
+![alt text](https://github.com/QuantumAbyss/EntityEmbeddings/blob/master/EEResults.png?raw=true)
